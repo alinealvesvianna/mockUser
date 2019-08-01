@@ -1,6 +1,6 @@
 {
     "user": {
-        "isTrial": false,
+        "isTrial": true,
         "dayExpire": 5
     }
 }
